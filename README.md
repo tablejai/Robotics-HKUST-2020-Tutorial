@@ -20,7 +20,7 @@
 > Video 5:
 * How to submit HW via github
 
-xact Timetable:
+Exact Timetable:
 | Day   | Sunday | Monday | Tuesday     | Wednesday                            | Thursday      | Friday | Saturday      |
 |:----- | ------ |:------ | ----------- |:------------------------------------ |:------------- | ------ |:------------- |
 | Date  | 4/10   | 5/10   | 6/10        | 7/10                                 | 8/10          | 9/10   | 10/10         |
